@@ -1,6 +1,6 @@
 How to run the agent.
 
-open the command prompt/terminal, and navigate to the codeCoverage folder
+open the command prompt/terminal, and navigate to the MyCodeCoverage folder
 run: mvn clean install This will create the agent.jar in the target folder.
 3.you have to run the example project in 4 different cases:
 
